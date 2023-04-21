@@ -1,11 +1,15 @@
-# Bienvenue sur la page Github de Guillaume Gentil 👋
+# ⚡ Welcome
 
-## 💬 Me contacter
+Guillaume is a pragmatic developer with the love to clean, quality code.
 
-[![Mail](https://img.shields.io/badge/email-green?&logo=minutemailer)](mailto:gb.gentil@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?&logo=linkedin)](https://www.linkedin.com/in/ggentil/)
+He spends his days discovering, and deepening his skills as a web developer.
+His favorite topics are: algorithm programming, API creation, data management and user experience.
 
-## 🌱 Ma palette d'outils de développeur web
+When he is away from keyboard, you can find him enjoying the great outdoors on his trusty mountain bike.
+
+The more you share, the more you learn!
+
+## 🌱 My web development toolkit
 
 ### Backend
 
@@ -20,6 +24,7 @@
 [![](https://img.shields.io/badge/20%25-navy?label=MongoDB&labelColor=black&logo=mongodb)](https://www.mongodb.com/)
 
 ### Frontend
+
 [![](https://img.shields.io/badge/v5-darkslategray?label=HTML&labelColor=black&logo=html5)](https://validator.w3.org/)
 [![](https://img.shields.io/badge/v3-darkslategray?label=CSS&labelColor=black&logo=css3)](https://developer.mozilla.org/fr/docs/Learn/CSS)
 [![Tailwind](https://img.shields.io/badge/v3-darkslategray?label=Tailwind&labelColor=black)](https://tailwindcss.com/docs/installation)
@@ -31,7 +36,7 @@
 [![Vue3](https://img.shields.io/badge/60%25-navy?label=Vue3&labelColor=black&logo=vue.js)](https://vuejs.org/)
 [![React](https://img.shields.io/badge/30%25-navy?label=React&labelColor=black&logo=react)](https://vuejs.org/)
 
-### Environnement de travail
+### Work environment
 
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-black?logo=ubuntu)](https://doc.ubuntu-fr.org/accueil)
 [![Git](https://img.shields.io/badge/Git-black?logo=git)](https://git-scm.com/doc)
@@ -48,13 +53,15 @@
 ![Gimp](https://img.shields.io/badge/Gimp-black?&logo=gimp)
 ![Inkscape](https://img.shields.io/badge/Inkscape-black?&logo=inkscape)
 
-## 🔭 Technos en ligne de mire
+### 🔭 Maybe the next one
 
 [![Python](https://img.shields.io/badge/Python-navy?logo=python)](https://www.python.org/doc/)
 [![django](https://img.shields.io/badge/django-navy?logo=django)](https://docs.djangoproject.com/en/4.2/intro/tutorial01/)
 [![Ruby](https://img.shields.io/badge/Ruby-navy?logo=ruby)](https://www.ruby-lang.org/fr/documentation/)
 [![WordPress](https://img.shields.io/badge/WordPress-navy?logo=wordpress)](https://codex.wordpress.org/)
 
-## 🤔 En savoir plus
+## 👋 Contact me
 
-À tout de suite sur mon [site web](https://guillaumegentil.me/) ⚡
+[![Mail](https://img.shields.io/badge/email-green?&logo=minutemailer)](mailto:gb.gentil@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?&logo=linkedin)](https://www.linkedin.com/in/ggentil/)
+[![LinkedIn](https://img.shields.io/badge/website-grey)](https://guillaumegentil.me/)
