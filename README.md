@@ -17,12 +17,12 @@ Auxquelles s'ajoutent la gestion de tout l'environnement indispensable à un sit
 - ![git](https://img.shields.io/badge/git-black?logo=git) ![Linux](https://img.shields.io/badge/Linux-black?logo=Linux) ![apache](https://img.shields.io/badge/apache-black?logo=apache) ![docker](https://img.shields.io/badge/docker-black?logo=docker) ![SQL](https://img.shields.io/badge/SQL-black?logo=mariaDB)
 
 
-## 🌱 Mes activités
+## 🥧 Mes activités
 
 
-✔️ __anticiper__ : conseiller, accompagner, planifier, intégrer le projet dans son environnement technique  
-✔️ __assurer__ : la qualité du travail, le respect des délais, le besoin initial  
-✔️ __gérer__ : le budget, les fournisseurs  
+🟢 __Anticiper__ : conseiller, accompagner, planifier, intégrer le projet dans son environnement technique  
+🟢 __Gérer__ : le budget, les fournisseurs  
+🟢 __Garantir__ : la qualité du travail, le respect des délais, le besoin initial  
 
 
 ## 🍒 Contact
