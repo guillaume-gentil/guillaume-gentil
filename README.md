@@ -62,6 +62,6 @@ The more you share, the more you learn!
 
 ## 👋 Contact me
 
-[![Mail](https://img.shields.io/badge/email-green?&logo=minutemailer)](mailto:gb.gentil@gmail.com)
+[![Mail](https://img.shields.io/badge/email-green?&logo=minutemailer)](mailto:guillaumeg.dev@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?&logo=linkedin)](https://www.linkedin.com/in/ggentil/)
-[![LinkedIn](https://img.shields.io/badge/website-grey)](https://guillaumegentil.me/)
+[![LinkedIn](https://img.shields.io/badge/website-grey)](https://guillaumegentil.fr/)
